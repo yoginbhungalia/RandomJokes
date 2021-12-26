@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Jokes</string>
+    <string name="loading">Loading</string>
+    <string name="hash_joke_id_type">#%s %s</string>
+</resources>
